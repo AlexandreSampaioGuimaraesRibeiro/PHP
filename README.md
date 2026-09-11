@@ -34,8 +34,6 @@ php artisan migrate
 php artisan serve
 ```
 
-*(adjust according to each project's specific requirements)*
-
 ## 👤 Author
 
 Alexandre Sampaio Guimarães Ribeiro
